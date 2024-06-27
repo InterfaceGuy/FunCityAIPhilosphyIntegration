@@ -1,6 +1,7 @@
 {
   "index.html": null,
   "README.md": null,
+  "directory-listing.json": null,
   "FunCityAIPhilosophyIntegration.sublime-workspace": null,
   "DreamSong.canvas": null,
   "FunCityAIPhilosophyIntegration.sublime-project": null,
@@ -8,7 +9,13 @@
     "styles.css": null,
     "update_submodules.py": null,
     "README.md": null,
-    "linearFlowCanvas.js": null
+    "linearFlowCanvas.js": null,
+    "Transcendentals": {
+      "Transcendentals.key": null,
+      "Transcendentals.png": null,
+      "README.md": null
+    }
   },
+  "Transcendentals": {},
   "parent_directory": "FunCityAIPhilosphyIntegration"
 }

@@ -1,3 +1,6 @@
 [submodule "DreamSongUI"]
 	path = DreamSongUI
 	url = https://github.com/InterfaceGuy/DreamSongUI
+[submodule "Transcendentals"]
+	path = Transcendentals
+	url = https://github.com/InterfaceGuy/Transcendentals.git
